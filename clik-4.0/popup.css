@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center; /* Центрирование по горизонтали */
+    align-items: center; /* Центрирование по вертикали */
+    height: 150px;
+    width: 150px;
+    margin: 0;
+    background-color: #c8a77e9c; /* Цвет фона страницы */
+    border-radius: 50px; /* Закругление углов окна */
+}
+
+
+.beautiful-button {
+    background-color: #315c85; /* Зеленый цвет */
+    border: none;
+    color: white; /* Цвет текста */
+    padding: 15px 32px; /* Отступы */
+    text-align: center; /* Выравнивание текста */
+    text-decoration: none; /* Без подчеркивания */
+    display: inline-block; /* Отображение в строку */
+    font-size: 20px; /* Размер шрифта */
+    margin: 0; /* Убираем отступы */
+    transition-duration: 0.4s; /* Эффект при наведении */
+    cursor: pointer; /* Указатель курсора */
+    border-radius: 12px; /* Скругление углов кнопки */
+}
+
+.beautiful-button:hover {
+    background-color: white; /* Цвет фона при наведении */
+    color: black; /* Цвет текста при наведении */
+    border: 2px solid #4CAF50; /* Граница при наведении */
+}

@@ -9,7 +9,7 @@
 ![alt text](img/image.png)
 
 
-![My GIF](https://github.com/ivan-os07/rokiExt/blob/main/vid/video.mp4)
+![My vid](vid/video.mp4)
 
 Или тоже самое по кнопке PageUp
 

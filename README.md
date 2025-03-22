@@ -9,7 +9,7 @@
 ![alt text](img/image.png)
 
 
-![My vid](vid/video.mp4)
+![My vid](vid/0322(1).gif)
 
 Или тоже самое по кнопке PageUp
 

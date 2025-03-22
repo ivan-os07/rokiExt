@@ -9,7 +9,7 @@
 ![alt text](img/image.png)
 
 
-<video controls src="vid/0322(1).mp4" title="Title"></video>
+![me](<video controls src="vid/0322(1).mp4" title="Title"></video>](https://github.com/ivan-os07/rokiExt/blob/main/vid/0322(1).mp4)
 
 Или тоже самое по кнопке PageUp
 
